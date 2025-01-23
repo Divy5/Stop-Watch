@@ -1,3 +1,4 @@
+# Stop Watch
 This is a Stopwatch project built using HTML, CSS, and JavaScript. It allows users to start, stop,get time and reset a timer that tracks time in a minutes:seconds:milliseconds format format.
 The project demonstrates basic concepts of DOM manipulation, time management, and event handling in JavaScript.
 
