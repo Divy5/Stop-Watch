@@ -1,7 +1,7 @@
 This is a Stopwatch project built using HTML, CSS, and JavaScript. It allows users to start, stop,get time and reset a timer that tracks time in a minutes:seconds:milliseconds format format.
 The project demonstrates basic concepts of DOM manipulation, time management, and event handling in JavaScript.
 
-![image alt]()
+![image alt](https://github.com/Divy5/Stop-Watch/blob/ceb3e2a15d23860fe0950f66ef12e5d4b80991b7/Screenshot%202025-01-23%20173845.png)
 
 # Features
 1. Start/Stop Button: Start and stop the timer with a single click.
